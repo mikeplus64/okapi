@@ -16,4 +16,4 @@ darling = "0.10"
 syn = "1.0"
 proc-macro2 = "1.0"
 quote = "1.0"
-rocket_http = { git = "https://github.com/SergioBenitez/Rocket.git", rev = "549c9241c41320fc5af76b53c2ffc3bd8db88f8c" }
+rocket_http = { git = "https://github.com/SergioBenitez/Rocket.git", rev = "1369dc47a357567ec3d3d711e318248dabd4b7f7" }
